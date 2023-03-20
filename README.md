@@ -1,1 +1,5 @@
-# Number_System_Calculator
+# Number System Calculator
+
+Decimal number to binary
+Octal number to decimal
+Hexa value to decimal
